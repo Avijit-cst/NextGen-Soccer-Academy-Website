@@ -118,7 +118,7 @@ The website is optimized for:
 
 ### Avijit Chakroborty
 
-* GitHub: urlbonkimchakroborty[https://github.com/bonkimchakroborty](https://github.com/bonkimchakroborty)
+* GitHub: https://github.com/Avijit-cst/
 
 ---
 
