@@ -14,7 +14,7 @@ This project was developed using pure **HTML** and **CSS**, ensuring lightweight
 
 ## 🚀 Live Demo
 
-🔗 [Add your live demo link here](https://project-1nm.netlify.app/)
+🔗 https://project-1nm.netlify.app/
 
 ---
 
@@ -22,7 +22,7 @@ This project was developed using pure **HTML** and **CSS**, ensuring lightweight
 
 > Add your project overview image here
 
-<img width="1920" height="3727" alt="image" src="https://github.com/user-attachments/assets/4907c8fe-c200-4d0e-ac4c-5b1065d97f87" />
+<img width="1920" height="3856" alt="image" src="https://github.com/user-attachments/assets/d1cf7974-0a12-4caf-9919-9269a02dd27e" />
 
 
 ---
